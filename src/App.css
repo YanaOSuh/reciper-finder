@@ -96,6 +96,9 @@ h1, h2, ul, p {
   box-shadow: 0 3px 10px 0 #aaa;
   position: relative;
 }
+.recipe-image {
+  height: 300px;
+}
 .recipe-list {
   display: flex;
   flex-direction: column;
